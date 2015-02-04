@@ -24,9 +24,6 @@ def impares(cad):
 print (numeracion(7))
 
 
-print (numeracion(7))
-
-
 
 
 
